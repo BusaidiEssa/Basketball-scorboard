@@ -1,5 +1,4 @@
 
-
 let countHome = 0
 let countGuest = 0
 let scoreHome =document.getElementById("score-h")
